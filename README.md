@@ -1,7 +1,5 @@
 # Jiří Klimeš
 
-Prague, Czech Republic | [klimes.dev](https://klimes.dev)
-
 I study machine intelligence through discrete search over learned world models, and build Rust systems for low-latency and local workloads.
 
 - [LightSearch](https://klimes.dev/writing/light-search): trained to depth 3, it finds depth-9 programs in a billion-program space while expanding under 0.04% of it.
